@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background: lightcyan;
+}
+
+.E1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    display:inline;
+    color: mediumseagreen;
+}
+.E2{
+    font-size: 25px;
+    display: inline;
+    -webkit-text-stroke: .2px red;
+}
